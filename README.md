@@ -1,7 +1,7 @@
 [![MastHead](https://cdn.discordapp.com/attachments/997271689769529394/1086285191946969088/Aryan_557_a_cool_tech_developer_with_a_apple_ipad_in_his_hand_i_a3187628-0ff1-4171-89dc-c78ca60b30cd.png)](https://linkfree.io/AryanParashar24)
 
 # 😎 Hey Whaatup! 😎 
-# I am Aryan Parashar! <img src="https://media.giphy.com/media/VFB3cJJne7b5m/giphy.gif" alt="Bang!!" width="70" />
+# I am Aryan Parashar! <!--<img src="https://media.giphy.com/media/VFB3cJJne7b5m/giphy.gif" alt="Bang!!" width="70" /> -->
 
 I am Aryan Parashar 
 
@@ -13,4 +13,4 @@ I am Aryan Parashar
 
 ### My Badges
 
-[![@aryanparashar24's Holopin board](https://www.holopin.io/@aryanparashar24#)](https://www.holopin.io/@aryanparashar24#badges)
+[![Holopin board](https://www.holopin.io/@aryanparashar24#)](https://www.holopin.io/@aryanparashar24#badges)
