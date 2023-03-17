@@ -37,7 +37,7 @@ Just bang the Twitter button, as i m highly active on Twitter 😃 all the time,
 
 # Wanna Buy me a Coffee?☕
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png)]([https://www.buymeacoffee.com/AryanParashar24])
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png)](https://www.buymeacoffee.com/AryanParashar24)
 
 
 # My Badges
