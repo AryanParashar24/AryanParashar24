@@ -14,9 +14,11 @@ I m 19 🧑‍💻 *&*
 - learning about 
    - **Machine-Learning** 🤖
    - **Cloud-Native computing**☁️
-   - **MERN- Stack Development** 🌐 & learn a lot more everyday to check and collaborate
-
-
+   - **MERN- Stack Development** 🌐 & learning a lot more everyday 
+    
+ to check and collaborate
+ 
+ 
 Just bang the **Twitter** button, as i m highly active on Twitter 😃 all the time, after all 
 ***OpenSource*** is all about
 
