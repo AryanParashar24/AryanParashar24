@@ -46,7 +46,7 @@ Just bang the Twitter button, as i m highly active on Twitter 😃 all the time,
 
 # Wanna Buy me a Coffee?☕
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/HYb5ETTGZDAAAAAC/tony-stark-coding-tony-stark.gif ">
+<!--  <img align="right" alt="coding" width="400" src="https://media.tenor.com/HYb5ETTGZDAAAAAC/tony-stark-coding-tony-stark.gif ">  -->
 
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png)](https://www.buymeacoffee.com/AryanParashar24)
 
