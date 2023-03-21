@@ -22,11 +22,19 @@ Just bang the Twitter button, as i m highly active on Twitter 😃 all the time,
 
 ### ***Connecting with folks working with them and sharing our knowledge in public*** 😁
 
-# I m a part of these Communities:
- <a href="https://github.com/EddieHubCommunity">
+# Communiites i m part of:
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/EddieHubCommunity">
               <img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" />
             </a>
-            
+      <a href="https://github.com/Design-and-Code">
+        <img src="https://avatars.githubusercontent.com/u/83478816?s=200&v=4">
+        </a>
+      </td>
+    </tr>
+  </table>            
             
 # 🌐Socials
 
