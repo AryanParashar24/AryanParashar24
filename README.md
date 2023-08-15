@@ -51,7 +51,8 @@ Just bang the **Twitter** button, as i m highly active on Twitter 😃 all the t
 
 <!--  <img align="right" alt="coding" width="400" src="https://media.tenor.com/HYb5ETTGZDAAAAAC/tony-stark-coding-tony-stark.gif ">  -->
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png)](https://www.buymeacoffee.com/AryanParashar24)
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/default-black.png)](
+https://buy.stripe.com/8wM16dfG16Nlbw4289)
 
 
 # **My Badges**
