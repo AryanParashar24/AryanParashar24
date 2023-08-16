@@ -80,10 +80,6 @@ Just bang the **Twitter** button, as i m highly active on Twitter 😃 all the t
 https://buy.stripe.com/8wM16dfG16Nlbw4289)
 
 
-# **My Badges**
-
-[![@aryanparashar24's Holopin board](https://holopin.me/aryanparashar24)](https://holopin.io/@aryanparashar24)
-
 
 <p align="center">
   <img width="60%" src="https://github.com/alansmathew/alansmathew/raw/master/projects.gif" alt="pic image here" />
