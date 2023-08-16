@@ -39,12 +39,37 @@ Just bang the **Twitter** button, as i m highly active on Twitter 😃 all the t
     </tr>
   </table>            
 
-  ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AryanParashar24&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  ## Language :
+![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+
+## DevOps & Cloud Tools:
+
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+
+
+## Libraries & Framework :
+
+<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+![Express.js](https://img.shields.io/badge/-Express.js-FFA500?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+
             
 # 🌐**Socials**
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Aryan_2407)[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aryan-parashar-6089331a9/)[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=Hashnode&logoColor=white)](https://codechill.hashnode.dev/)[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/21413031/aryan-parashar)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Aryan_2407)[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aryan-parashar-6089331a9/)[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=Hashnode&logoColor=white)](https://codechill.hashnode.dev/)[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/tKTRSu6S)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/21413031/aryan-parashar)
 
 
 # Wanna Buy me a Coffee?☕
