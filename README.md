@@ -72,6 +72,36 @@ Just bang the **Twitter** button, as i m highly active on Twitter 😃 all the t
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/21413031/aryan-parashar)
 
 
+#
+
+<img align='left' height='160' style="margin-left:20px" src='https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif' alt='Skills'>
+ <details open="true"> 
+  <summary><b>:octocat: &nbsp;Git Statistics</b></summary>
+  <div align="center">
+  <img height="125px" src="https://github-readme-stats.vercel.app/api?username=AryanParashar24&show_icons=true&theme=dracula" />
+  <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanParashar24&hide=html&layout=compact&theme=dracula" />
+<!-- <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=AryanParashar24&hide=html&layout=compact&theme=dracula" />
+ <img height="120px" src="https://activity-graph.herokuapp.com/graph?username=AryanParashar24&theme=dracula" /> -->
+ </div>
+    
+#
+  
+   
+  
+  <div align="center">
+<img height="135px" src="https://github-profile-trophy.vercel.app/?username=AryanParashar24&column=10&row=1&theme=dracula" />
+ </div>
+  
+[![@aryanparashar24's Holopin board](https://holopin.me/aryanparashar24)](https://holopin.io/@aryanparashar24)
+<center>
+ <!-- <img height="148px" src="https://samkoba.github.io/images/turbidity-monitoring-system1.jpg" />
+  <img height="148px" src="https://samkoba.github.io/images/database-alumni-ekasari1.jpg" />
+  <img height="148px" src="https://samkoba.github.io/images/the-memories-of-smantig2.jpg" />
+  <img height="148px" src="https://samkoba.github.io/images/hdct-antivirus1.jpg" /> -->
+
+ </details>
+ 
+
 
 # Wanna Buy me a Coffee?☕
 
