@@ -1,4 +1,4 @@
-## 😎 Hey ***Whaatup  !!*** 😎 
+## 😎 Hey ***Everyone  !!*** 😎 
 <p align="center">
   <a href="https://linkfree.io/AryanParashar24"><img src="https://cdn.discordapp.com/attachments/997271689769529394/1086285191946969088/Aryan_557_a_cool_tech_developer_with_a_apple_ipad_in_his_hand_i_a3187628-0ff1-4171-89dc-c78ca60b30cd.png" alt="MastHead" width="500"/></a>
 </p>
