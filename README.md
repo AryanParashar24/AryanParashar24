@@ -3,7 +3,7 @@
   <a href="https://linkfree.io/AryanParashar24"><img src="https://cdn.discordapp.com/attachments/997271689769529394/1086285191946969088/Aryan_557_a_cool_tech_developer_with_a_apple_ipad_in_his_hand_i_a3187628-0ff1-4171-89dc-c78ca60b30cd.png" alt="MastHead" width="500"/></a>
 </p>
 
-# I am *Aryan Parashar* <!--<img src="https://media.giphy.com/media/VFB3cJJne7b5m/giphy.gif" alt="Bang!!" width="70" /> -->
+# I am *Aryan Parashar* <!--<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Bang!!" width="70" /> -->
 
 <!--I m 19 🧑‍💻 *&* -->
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
