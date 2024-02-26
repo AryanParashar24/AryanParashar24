@@ -1,29 +1,42 @@
 ## 😎 Hey ***Everyone  !!*** 😎 
 <p align="center">
-  <a href="https://linkfree.io/AryanParashar24"><img src="https://cdn.discordapp.com/attachments/997271689769529394/1086285191946969088/Aryan_557_a_cool_tech_developer_with_a_apple_ipad_in_his_hand_i_a3187628-0ff1-4171-89dc-c78ca60b30cd.png" alt="MastHead" width="500"/></a>
+  <a href="https://linkfree.io/AryanParashar24"><img src="https://cdn.discordapp.com/attachments/1138825571468591207/1211619795213225984/Aryan_557_a_cool_tech_developer_with_a_apple_ipad_in_his_hand_i_2aa7e355-2067-4824-9f44-2212eeb7cf24.png?ex=65eedbdd&is=65dc66dd&hm=93b387a1e08b0c054daf7f5ffa5ef4f04e2d658c2308e49fb37d0ea66bf3dbae&" alt="MastHead" width="500"/></a>
 </p>
 
-# I am *Aryan Parashar* <!--<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Bang!!" width="70" /> -->
+# I am *Aryan Parashar* 
 
 <!--I m 19 🧑‍💻 *&* -->
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-- I am a **Web Developer**
-- **DevOps 🥑 & OpenSource 💜** Enthusiast
+- I am the Lens Champion, Developer Advocate & Ambassador of Lens IDE
+- **DevOps 🥑 & OpenSource 💜** Contributor
 - Highly interested in **Networking🌏 & Collaboration** with folks 
-- learning about 
-   - **Machine-Learning** 🤖
+- *Mostly contributing in:*
+   - **Machine-Learning & LLMs** 🤖
    - **Cloud-Native computing**☁️
-   - **MERN- Stack Development** 🌐 & learning a lot more everyday 
-    
- to check and collaborate
- 
- 
-Just bang the **Twitter** button, as i m highly active on Twitter 😃 all the time, after all 
-***OpenSource*** is all about
+   - **Platform and Infrastructure Security**
+   - **Platform Engineering & Infrastructure as Code**
+   - **Kubernetes☸️ & Web-Assembly**
+   - **MERN-Stack Development & API Integrations** 🌐 & learning a lot more everyday 
 
 
-### ***Connecting with folks working with them and sharing our knowledge in public*** 😁
+---
+
+
+**To collaborate:**
+ 
+ 
+Just bang the **Twitter** button, as i m highly active on Twitter 😃
+
+## I am also a Youtube Content Cretor, Technical Writer at Hashnode & have a community at Discord to discuss about all of these domains.
+
+Helping developers & students in the domain to find information about different tools, services, platforms and integrations along with various opportunities of workshops, fellowships and mentorships availaible in the field of WebDev, API Integrations, DevOps, Cloud, CloudNative, Platform Engineering, AI & LLMs, through technical blogs, youtube videos and perosnnel help through community channel at Discord & Youtube.
+
+# 🌐**Socials**
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Aryan_2407)[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aryan-parashar-6089331a9/)[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=Hashnode&logoColor=white)](https://codechill.hashnode.dev/)[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/tKTRSu6S)[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@AryanParashar)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/21413031/aryan-parashar)
+
 
 # **Communities** that I'm a part of:
 <table>
@@ -64,12 +77,6 @@ Just bang the **Twitter** button, as i m highly active on Twitter 😃 all the t
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-
-            
-# 🌐**Socials**
-
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Aryan_2407)[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aryan-parashar-6089331a9/)[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=Hashnode&logoColor=white)](https://codechill.hashnode.dev/)[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/tKTRSu6S)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/21413031/aryan-parashar)
 
 
 #
