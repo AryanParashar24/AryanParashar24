@@ -1,6 +1,6 @@
 ## 😎 Hey ***Everyone  !!*** 😎 
 <p align="center">
-  <a href="https://linkfree.io/AryanParashar24"><img src="https://cdn.discordapp.com/attachments/1138825571468591207/1211619795213225984/Aryan_557_a_cool_tech_developer_with_a_apple_ipad_in_his_hand_i_2aa7e355-2067-4824-9f44-2212eeb7cf24.png?ex=65eedbdd&is=65dc66dd&hm=93b387a1e08b0c054daf7f5ffa5ef4f04e2d658c2308e49fb37d0ea66bf3dbae&" alt="MastHead" width="500"/></a>
+  <!-- <a href="https://linkfree.io/AryanParashar24"><img src="https://cdn.discordapp.com/attachments/1138825571468591207/1211619795213225984/Aryan_557_a_cool_tech_developer_with_a_apple_ipad_in_his_hand_i_2aa7e355-2067-4824-9f44-2212eeb7cf24.png?ex=65eedbdd&is=65dc66dd&hm=93b387a1e08b0c054daf7f5ffa5ef4f04e2d658c2308e49fb37d0ea66bf3dbae&" alt="MastHead" width="500"/></a>   -->
 </p>
 
 # I am *Aryan Parashar* 
