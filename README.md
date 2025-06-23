@@ -9,14 +9,14 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - I am the Lens Champion, Developer Advocate & Ambassador of Lens IDE
-- **DevOps 🥑 & OpenSource 💜** Contributor
+- **CloudNative🥑 & OpenSource 💜** Contributor
 - Highly interested in **Networking🌏 & Collaboration** with folks 
 - *Mostly contributing in:*
    - **Machine-Learning & LLMs** 🤖
    - **Cloud-Native computing**☁️
    - **Platform and Infrastructure Security**
    - **Platform Engineering & Infrastructure as Code**
-   - **Kubernetes☸️ & Web-Assembly**
+   - **Kubernetes☸️& Web-Assembly**
    - **MERN-Stack Development & API Integrations** 🌐 & learning a lot more everyday 
 
 
@@ -26,7 +26,7 @@
 **To collaborate:**
  
  
-Just bang the **Twitter** button, as i m highly active on Twitter 😃
+Just bang the **Twitter & Linkedin** button, as i m highly active on Twitter & Linkedin😃
 
 ## I am also a Youtube Content Cretor, Technical Writer at Hashnode & have a community at Discord to discuss about all of these domains.
 
@@ -77,37 +77,6 @@ Helping developers & students in the domain to find information about different 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-
-
-#
-
-<img align='left' height='160' style="margin-left:20px" src='https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif' alt='Skills'>
- <details open="true"> 
-  <summary><b>:octocat: &nbsp;Git Statistics</b></summary>
-  <div align="center">
-  <img height="125px" src="https://github-readme-stats.vercel.app/api?username=AryanParashar24&show_icons=true&theme=dracula" />
-  <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanParashar24&hide=html&layout=compact&theme=dracula" />
-<!-- <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=AryanParashar24&hide=html&layout=compact&theme=dracula" />
- <img height="120px" src="https://activity-graph.herokuapp.com/graph?username=AryanParashar24&theme=dracula" /> -->
- </div>
-    
-#
-  
-   
-  
-  <div align="center">
-<img height="135px" src="https://github-profile-trophy.vercel.app/?username=AryanParashar24&column=10&row=1&theme=dracula" />
- </div>
-  
-[![@aryanparashar24's Holopin board](https://holopin.me/aryanparashar24)](https://holopin.io/@aryanparashar24)
-<center>
- <!-- <img height="148px" src="https://samkoba.github.io/images/turbidity-monitoring-system1.jpg" />
-  <img height="148px" src="https://samkoba.github.io/images/database-alumni-ekasari1.jpg" />
-  <img height="148px" src="https://samkoba.github.io/images/the-memories-of-smantig2.jpg" />
-  <img height="148px" src="https://samkoba.github.io/images/hdct-antivirus1.jpg" /> -->
-
- </details>
- 
 
 
 # Wanna Buy me a Coffee?☕
