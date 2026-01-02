@@ -28,7 +28,7 @@
  
 Just bang the **Twitter & Linkedin** button, as i m highly active on Twitter & Linkedin😃
 
-## I am also a Youtube Content Cretor, Technical Writer at Hashnode & have a community at Discord to discuss about all of these domains.
+**I am also a Youtube Content Cretor, Technical Writer at Hashnode & have a community at Discord to discuss about all of these domains.**
 
 Helping developers & students in the domain to find information about different tools, services, platforms and integrations along with various opportunities of workshops, fellowships and mentorships availaible in the field of WebDev, API Integrations, DevOps, Cloud, CloudNative, Platform Engineering, AI & LLMs, through technical blogs, youtube videos and perosnnel help through community channel at Discord & Youtube.
 
