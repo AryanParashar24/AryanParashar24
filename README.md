@@ -8,16 +8,12 @@
 <!--I m 19 🧑‍💻 *&* -->
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-- I am the Lens Champion, Developer Advocate & Ambassador of Lens IDE
 - **CloudNative🥑 & OpenSource 💜** Contributor
-- Highly interested in **Networking🌏 & Collaboration** with folks 
 - *Mostly contributing in:*
-   - **Machine-Learning & LLMs** 🤖
    - **Cloud-Native computing**☁️
    - **Platform and Infrastructure Security**
-   - **Platform Engineering & Infrastructure as Code**
    - **Kubernetes☸️& Web-Assembly**
-   - **MERN-Stack Development & API Integrations** 🌐 & learning a lot more everyday 
+   - **Machine-Learning & LLMs** 🤖
 
 
 ---
@@ -30,7 +26,7 @@ Just bang the **Twitter & Linkedin** button, as i m highly active on Twitter & L
 
 **I am also a Youtube Content Cretor, Technical Writer at Hashnode & have a community at Discord to discuss about all of these domains.**
 
-Helping developers & students in the domain to find information about different tools, services, platforms and integrations along with various opportunities of workshops, fellowships and mentorships availaible in the field of WebDev, API Integrations, DevOps, Cloud, CloudNative, Platform Engineering, AI & LLMs, through technical blogs, youtube videos and perosnnel help through community channel at Discord & Youtube.
+Cloud & Open Source Software Engineer heavily involved within the entire Cloud, Kubernetes and Open Source ecosystem contributing through Code, Documentation, Platform Managment and Developer Advocacy. I majorly code in languages involving Go, Rust, C/C++, Java, Python to build YAML files. I am interested to find roles related to SDE, Cloud, DevOps, Platform Engineering and Developer Advocacy. To set-up my Proof-of-work, I also build Technical Video Content to code, build projects and Advocate for them gloabbly.
 
 # 🌐**Socials**
 
