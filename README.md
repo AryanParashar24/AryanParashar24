@@ -18,7 +18,7 @@
 
 ---
 
-**I am also the Creator of [Garund](https://github.com/AryanParashar24/Garund), which is a Garund is a unified, OpenSource, cloud-native Kubernetes SRE observability and reliability control-plane Monitoring application!!**
+**I am also the Creator of [Garund](https://github.com/AryanParashar24/Garund), which is a unified, OpenSource, cloud-native Kubernetes SRE observability and reliability control-plane Monitoring application!!**
 
 
 **To collaborate:**
